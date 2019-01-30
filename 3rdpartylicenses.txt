@@ -404,19 +404,22 @@ MIT
 
 @angular/material/checkbox
 
-@angular/material/dialog
-
-@angular/material/datepicker
+@angular/material/select
 
 @angular/material/radio
 
-@angular/material/select
+@angular/material/dialog
+
+@angular/material/datepicker
 
 @angular/material/chips
 
 @angular/material/autocomplete
 
 @angular/material/table
+
+ngx-captcha
+MIT
 
 @toverux/ngx-sweetalert2
 MIT
