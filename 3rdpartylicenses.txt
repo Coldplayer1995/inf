@@ -404,13 +404,13 @@ MIT
 
 @angular/material/checkbox
 
-@angular/material/select
-
-@angular/material/radio
-
 @angular/material/dialog
 
 @angular/material/datepicker
+
+@angular/material/select
+
+@angular/material/radio
 
 @angular/material/chips
 
@@ -420,6 +420,8 @@ MIT
 
 ngx-captcha
 MIT
+
+@angular/material/snack-bar
 
 @toverux/ngx-sweetalert2
 MIT
