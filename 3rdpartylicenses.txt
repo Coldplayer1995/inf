@@ -447,6 +447,8 @@ MIT
 ngx-captcha
 MIT
 
+@angular/material/tooltip
+
 @angular/material/snack-bar
 
 @toverux/ngx-sweetalert2
